@@ -1,8 +1,8 @@
 {
   "id": 1,
   "titulo": "Chainsaw Man",
-  "portada": "URL_VERTICAL",
-  "banner": "URL_HORIZONTAL",
+  "portada": "https://media.themoviedb.org/t/p/w220_and_h330_face/voajKwMZyb8Zj8Ahc2PhPQ67EAe.jpg",
+  "banner": "https://media.themoviedb.org/t/p/w500_and_h282_face/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
   "descripcion": "Denji es un adolescente que vive con un demonio perro...",
   "tipo": "Serie",
   "etiquetas": ["Banner", "Tendencia", "Accion"],
