@@ -1,16 +1,15 @@
-[
-  {
-    "id": 1,
-    "titulo": "Demon Slayer",
-    "portada": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIT3nN5xX0mS4c599yZ9qI5s7.jpg",
-    "banner": "https://images6.alphacoders.com/112/1123389.jpg",
-    "descripcion": "Tanjiro busca la cura para su hermana...",
-    "categorias": ["Acción", "Fantasía"],
-    "temporadas": {
-      "1": [
-        {"cap": 1, "nombre": "Crueldad", "url_video": "https://tuservidor.com/video1.mp4"},
-        {"cap": 2, "nombre": "Entrenamiento", "url_video": "https://tuservidor.com/video2.mp4"}
-      ]
-    }
+{
+  "id": 1,
+  "titulo": "Chainsaw Man",
+  "portada": "URL_VERTICAL",
+  "banner": "URL_HORIZONTAL",
+  "descripcion": "Denji es un adolescente que vive con un demonio perro...",
+  "tipo": "Serie",
+  "etiquetas": ["Banner", "Tendencia", "Accion"],
+  "temporadas": {
+    "1": [
+      {"cap": 1, "nombre": "Perro y Motosierra", "img": "URL_MINI_CAP", "desc": "Denji muere y renace como hibrido."},
+      {"cap": 2, "nombre": "Llegada a Tokio", "img": "URL_MINI_CAP", "desc": "Denji conoce a Makima."}
+    ]
   }
-]
+}
